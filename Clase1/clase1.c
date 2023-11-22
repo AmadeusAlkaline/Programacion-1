@@ -1,5 +1,5 @@
 #include<stdio.h>
-#define DATO 4 /*Aqui definimos una variable*/
+#define DATO 4 /*Aqui definimos una constante*/
 
 void main(){
     int x,y = 1;
